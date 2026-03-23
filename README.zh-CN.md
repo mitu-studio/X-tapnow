@@ -2,6 +2,10 @@
 
 X-tapnow 是一个基于节点的 AI 创作工作台，提供无限画布来组织图像、视频与文本工作流。
 
+## 主页面预览
+
+![X-tapnow 主页面](./docs/images/main-page-preview.png)
+
 ## 功能特性
 
 - 支持节点/分组编辑的无限画布

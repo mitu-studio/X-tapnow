@@ -4,6 +4,10 @@
 
 X-tapnow is a node-based AI creation workspace with an infinite canvas for image, video, and text workflows.
 
+## Main Page Preview
+
+![X-tapnow Main Page](./docs/images/main-page-preview.png)
+
 ## Highlights
 
 - Infinite canvas with node/group workflow editing
