@@ -19,7 +19,7 @@ Node-based AI creation workspace with an infinite canvas for image, video, and t
 ## Preview
 
 ![X-tapnow Main Page](./docs/images/main-page-preview.png)
-
+![X-tapnow Main Page22](./docs/images/Snipaste_2026-03-23_18-09-34.png)
 ## Features
 
 - Infinite canvas with node/group workflow editing
