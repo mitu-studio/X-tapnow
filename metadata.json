@@ -1,0 +1,5 @@
+{
+  "name": "X-tapnow",
+  "description": "A node-based AI image generation workspace featuring an infinite canvas, Gemini integration, and a professional dark UI.",
+  "requestFramePermissions": []
+}

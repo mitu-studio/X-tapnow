@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  app:
+    container_name: X-tapnow_app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5111:80"
+    restart: always
+    environment:
+      - NODE_ENV=production
